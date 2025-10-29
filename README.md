@@ -39,12 +39,12 @@ These additions ensure the work extends beyond reproducing iCaRL or ADWIN indivi
 
 | Timeline (2025) | Focus | Outcomes |
 | --- | --- | --- |
-| **Weeks 1-2 (Aug)** | Deep dive into continual learning fundamentals; reproduce simple rehearsal baselines (e.g., ER, GEM). | Literature notes, baseline scripts, evaluation harness (Split CIFAR-10/100). |
-| **Weeks 3-5 (Sept)** | Implement and validate vanilla iCaRL; document architecture, exemplar selection, incremental training loop. | Verified iCaRL baseline with metrics + reproducible notebook. |
-| **Weeks 6-8 (Oct)** | Study ADWIN / drift detection; build lightweight monitor pipeline over rehearsal metrics; run ablation to calibrate thresholds. | Modular ADWIN monitor, experiments on synthetic drift streams. |
-| **Weeks 9-11 (Nov)** | Integrate adaptive trigger into iCaRL loop; design experiments comparing constant vs adaptive rehearsal. | Prototype "Smart Rehearsal" model, initial comparison plots. |
-| **Weeks 12-14 (Dec)** | Optimise, evaluate on additional datasets (e.g., Split Tiny-ImageNet); prepare visualisations and documentation. | Final metrics table, compute usage analysis, polished charts. |
-| **Week 15 (Jan)** | Finalise report, presentation, code clean-up, reproducibility checklist. | Submission-ready artefacts and presentation deck. |
+| **Weeks 1-2 (July)** | Deep dive into continual learning fundamentals; reproduce simple rehearsal baselines (e.g., ER, GEM). | Literature notes, baseline scripts, evaluation harness (Split CIFAR-10/100). |
+| **Weeks 3-4 (Aug)** | Implement and validate vanilla iCaRL; document architecture, exemplar selection, incremental training loop. | Verified iCaRL baseline with metrics + reproducible notebook. |
+| **Weeks 4-6 (Sept)** | Study ADWIN / drift detection; build lightweight monitor pipeline over rehearsal metrics; run ablation to calibrate thresholds. | Modular ADWIN monitor, experiments on synthetic drift streams. |
+| **Weeks 7-8 (Sept)** | Integrate adaptive trigger into iCaRL loop; design experiments comparing constant vs adaptive rehearsal. | Prototype "Smart Rehearsal" model, initial comparison plots. |
+| **Weeks 9-10 (Oct)** | Optimise, evaluate on additional datasets (e.g., Split Tiny-ImageNet); prepare visualisations and documentation. | Final metrics table, compute usage analysis, polished charts. |
+| **Week 12 (Nov)** | Finalise report, presentation, code clean-up, reproducibility checklist. | Submission-ready artefacts and presentation deck. |
 
 ---
 
